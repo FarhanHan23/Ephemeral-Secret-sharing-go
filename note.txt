@@ -1,1 +1,0 @@
-Buat struct untuk data secret yang mau disimpan di in Memory
